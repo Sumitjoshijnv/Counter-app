@@ -1,2 +1,3 @@
 # Counter-app
-Author - Sumit Joshi
+Author
+Sumit Joshi
