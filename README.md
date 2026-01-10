@@ -1,4 +1,4 @@
 # Counter-app
 Author
 <br>
-Sumit Joshi
+Sumit Joshi (sj)
